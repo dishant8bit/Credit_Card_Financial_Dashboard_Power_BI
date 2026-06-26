@@ -6,7 +6,7 @@ This project focuses on developing an interactive **Credit Card Financial Dashbo
 
 The project demonstrates end-to-end **Business Intelligence (BI)** development by integrating **SQL**, **PostgreSQL**, **Power BI**, **Power Query**, and **DAX** to build a scalable and automated reporting solution. It is designed to showcase practical data analytics and dashboard development skills for **GitHub portfolios, internships, and entry-level Data Analyst or Business Intelligence roles.**
 
----
+
 
 # 🗂 Dataset Description
 
@@ -29,7 +29,7 @@ Contains customer demographic and account information.
 * Job Type
 * Card Category
 
----
+
 
 ### 2️⃣ Credit Card Transaction Table (cc_detail)
 
@@ -47,7 +47,6 @@ Contains weekly transaction records and financial information.
 * Week Start Date
 * Card Category
 
----
 
 # 🛠 Tools & Technologies Used
 
@@ -58,7 +57,7 @@ Contains weekly transaction records and financial information.
 * DAX (Data Analysis Expressions)
 * CSV Dataset
 
----
+
 
 # 🗄 Database Creation & SQL Implementation
 
@@ -77,7 +76,7 @@ The SQL workflow included:
 
 Using PostgreSQL provided a centralized database that supports efficient querying and seamless integration with Power BI.
 
----
+
 
 # 🔗 Connecting PostgreSQL with Power BI
 
@@ -94,7 +93,7 @@ Instead of importing CSV files directly into Power BI, the dashboard connects to
 
 This approach enables a dynamic reporting workflow where the dashboard always reflects the latest data stored in the database.
 
----
+
 
 # 🧹 Data Cleaning & Transformation
 
@@ -113,7 +112,7 @@ The cleaning process included:
 
 Power Query ensured that the data model remained clean, consistent, and optimized for analysis.
 
----
+
 
 # 📊 Data Modeling
 
@@ -127,7 +126,7 @@ using the **Client Number** as the primary relationship.
 
 This allows customer information and transaction data to interact dynamically across all dashboard visuals.
 
----
+
 
 # 📐 DAX Calculations
 
@@ -145,7 +144,7 @@ Several DAX measures and calculated columns were created to generate meaningful 
 
 These calculations provide dynamic KPIs that automatically update whenever new data is loaded from PostgreSQL.
 
----
+
 
 # 📊 Dashboard Features
 
@@ -163,7 +162,7 @@ Provides detailed customer analysis through interactive visuals.
 * Revenue by State
 * Customer Age Distribution
 
----
+
 
 ## 💳 Transaction Dashboard
 
@@ -180,7 +179,7 @@ Analyzes financial performance and transaction activity.
 * Revenue by Expenditure Type
 * Revenue by Transaction Method
 
----
+
 
 ## 📈 Weekly Business Report
 
@@ -195,7 +194,7 @@ The report contains:
 * Key Business Insights
 * Business Recommendations
 
----
+
 
 # 📈 Visualizations Included
 
@@ -209,7 +208,7 @@ The report contains:
 * State-wise Revenue Map
 * Interactive Slicers
 
----
+
 
 # 💡 Key Business Insights
 
@@ -229,21 +228,15 @@ The report contains:
 
 ## Customer Dashboard
 
-(Add Screenshot)
+<img width="1162" height="642" alt="image" src="https://github.com/user-attachments/assets/de5662af-5aec-4760-b986-a5dee41bcb4d" />
 
----
 
 ## Transaction Dashboard
 
-(Add Screenshot)
+<img width="1157" height="632" alt="image" src="https://github.com/user-attachments/assets/7907875d-0136-4240-84fc-44129aa4bd5c" />
 
----
 
-## Weekly Business Report
 
-(Add PowerPoint Screenshot)
-
----
 
 # ▶️ How to Use
 
@@ -271,7 +264,7 @@ Click **Refresh** in Power BI to retrieve the latest data from the PostgreSQL da
 
 Any new records inserted into PostgreSQL will automatically appear in the dashboard after refreshing.
 
----
+
 
 # 🚀 Future Improvements
 
@@ -282,14 +275,14 @@ Any new records inserted into PostgreSQL will automatically appear in the dashbo
 * Integrate real-time transaction data
 * Add advanced DAX measures for predictive analytics
 
----
+
 
 # 👤 Author
 
-Dishant Kudtarkar
+**Dishant Kudtarkar**
 
 Aspiring Data Analyst | Power BI | SQL | PostgreSQL | Python | Business Intelligence | Data Visualization
 
----
+
 
 ⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
