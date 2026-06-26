@@ -222,7 +222,7 @@ The report contains:
 * Delinquency rate remained at **6.06%**.
 * Week 53 recorded a **28.77% increase in revenue** compared to the previous week.
 
----
+
 
 # 📸 Dashboard Preview
 
